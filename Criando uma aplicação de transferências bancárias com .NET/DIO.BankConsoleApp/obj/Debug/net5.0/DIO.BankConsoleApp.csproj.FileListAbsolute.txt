@@ -1,0 +1,16 @@
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO.BankConsoleApp\bin\Debug\net5.0\DIO.BankConsoleApp.exe
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO.BankConsoleApp\bin\Debug\net5.0\DIO.BankConsoleApp.deps.json
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO.BankConsoleApp\bin\Debug\net5.0\DIO.BankConsoleApp.runtimeconfig.json
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO.BankConsoleApp\bin\Debug\net5.0\DIO.BankConsoleApp.runtimeconfig.dev.json
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO.BankConsoleApp\bin\Debug\net5.0\DIO.BankConsoleApp.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO.BankConsoleApp\bin\Debug\net5.0\ref\DIO.BankConsoleApp.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO.BankConsoleApp\bin\Debug\net5.0\DIO.BankConsoleApp.pdb
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO.BankConsoleApp\obj\Debug\net5.0\DIO.BankConsoleApp.csprojAssemblyReference.cache
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO.BankConsoleApp\obj\Debug\net5.0\DIO.BankConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO.BankConsoleApp\obj\Debug\net5.0\DIO.BankConsoleApp.AssemblyInfoInputs.cache
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO.BankConsoleApp\obj\Debug\net5.0\DIO.BankConsoleApp.AssemblyInfo.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO.BankConsoleApp\obj\Debug\net5.0\DIO.BankConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO.BankConsoleApp\obj\Debug\net5.0\DIO.BankConsoleApp.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO.BankConsoleApp\obj\Debug\net5.0\ref\DIO.BankConsoleApp.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO.BankConsoleApp\obj\Debug\net5.0\DIO.BankConsoleApp.pdb
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Criando uma aplicação de transferências bancárias com .NET\DIO.BankConsoleApp\obj\Debug\net5.0\DIO.BankConsoleApp.genruntimeconfig.cache
