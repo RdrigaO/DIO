@@ -1,0 +1,333 @@
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\appsettings.json
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\CursoMVC.DIO.exe
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\CursoMVC.DIO.deps.json
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\CursoMVC.DIO.runtimeconfig.json
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\CursoMVC.DIO.runtimeconfig.dev.json
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\CursoMVC.DIO.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\ref\CursoMVC.DIO.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\CursoMVC.DIO.pdb
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\CursoMVC.DIO.Views.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\CursoMVC.DIO.Views.pdb
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.csprojAssemblyReference.cache
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.AssemblyInfoInputs.cache
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.AssemblyInfo.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.csproj.CoreCompileInputs.cache
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.RazorAssemblyInfo.cache
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.RazorAssemblyInfo.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\staticwebassets\CursoMVC.DIO.StaticWebAssets.Manifest.cache
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\staticwebassets\CursoMVC.DIO.StaticWebAssets.xml
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\scopedcss\bundle\CursoMVC.DIO.styles.css
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.TagHelpers.input.cache
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.TagHelpers.output.cache
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.RazorCoreGenerate.cache
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.RazorTargetAssemblyInfo.cache
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.RazorTargetAssemblyInfo.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.Views.pdb
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\ref\CursoMVC.DIO.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.pdb
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.genruntimeconfig.cache
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.csproj.CopyComplete
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Humanizer.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Categoria\Create.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Categoria\Delete.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Categoria\Details.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Categoria\Edit.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Categoria\Index.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Produto\Create.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Produto\Delete.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Produto\Details.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Produto\Edit.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\Criando a primeira aplicação APS .NET\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Produto\Index.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\appsettings.json
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\CursoMVC.DIO.exe
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\CursoMVC.DIO.deps.json
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\CursoMVC.DIO.runtimeconfig.json
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\CursoMVC.DIO.runtimeconfig.dev.json
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\CursoMVC.DIO.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\ref\CursoMVC.DIO.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\CursoMVC.DIO.pdb
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\CursoMVC.DIO.Views.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\CursoMVC.DIO.Views.pdb
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Humanizer.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.csprojAssemblyReference.cache
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.AssemblyInfoInputs.cache
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.AssemblyInfo.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.csproj.CoreCompileInputs.cache
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.RazorAssemblyInfo.cache
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.RazorAssemblyInfo.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\staticwebassets\CursoMVC.DIO.StaticWebAssets.Manifest.cache
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\staticwebassets\CursoMVC.DIO.StaticWebAssets.xml
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\scopedcss\bundle\CursoMVC.DIO.styles.css
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.TagHelpers.input.cache
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.TagHelpers.output.cache
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.RazorCoreGenerate.cache
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.RazorTargetAssemblyInfo.cache
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.RazorTargetAssemblyInfo.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.Views.pdb
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.csproj.CopyComplete
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\ref\CursoMVC.DIO.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.pdb
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\CursoMVC.DIO.genruntimeconfig.cache
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Categorias\Create.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Categorias\Delete.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Categorias\Details.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Categorias\Edit.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Categorias\Index.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Produtos\Create.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Produtos\Delete.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Produtos\Details.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Produtos\Edit.cshtml.g.cs
+C:\Users\rjds7402065\Documents\Portifolio\DIO\Desenvolvimento de aplicações com .NET\MVC_API\CursoMVC.DIO\obj\Debug\net5.0\Razor\Views\Produtos\Index.cshtml.g.cs
