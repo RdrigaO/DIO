@@ -42,6 +42,13 @@ namespace Api.Controllers
 
             return Ok("Atualizado com sucesso");
         }
+        [HttpDelete("{dataNasc}")]
+        public ActionResult Delete(DateTime dataNasc)
+        {
+            _infectadoCollection.DeleteOne(Builders<Infectado>.Filter.Where(_ => _.DataNascimento == dataNasc));
+
+            return Ok("Atualizado com sucesso");
+        }
 
     }
 }
