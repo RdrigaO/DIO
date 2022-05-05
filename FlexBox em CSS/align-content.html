@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fundamentos - Align content</title>
+    <style>
+
+        .container{
+            height: 400px;
+            max-width: 300px;
+            display: flex;
+            flex-wrap: wrap;
+            border: 1px solid black;
+        }
+        .item{
+            background-color: orangered;
+            padding: 0 5px;
+            flex: 1;
+            text-align: center;
+            color: white;
+            margin: 5px;
+            border: 1px solid black;
+        }
+        .stretch{
+            align-content: stretch;
+        }
+        .center{
+            align-content: center;
+        }
+        .flex-start{
+            align-content: flex-start;
+        }
+        .flex-end{
+            align-content: flex-end;
+        }
+        .space-around{
+            align-content: space-around;
+        }
+        .space-between{
+            align-content: space-between;
+        }
+    </style>
+</head>
+<body>
+    <h1>Stretch</h1>
+    <div class="container stretch">
+        <div class="item">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</div>
+        <div class="item">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</div>
+        <div class="item">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</div>
+        <div class="item">typesetting industry. Lorem Ipsum has been the industry's standard </div>
+    </div>
+
+    <h1>Center</h1>
+    <div class="container center">
+        <div class="item">Lorem Ipsum is simply dummy ,</div>
+        <div class="item">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</div>
+        <div class="item">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</div>
+        <div class="item">typesetting industry. Lorem Ipsum has been the industry's standard </div>
+    </div>
+
+    <h1>Flex-start</h1>
+    <div class="container flex-start">
+        <div class="item">Lorem Ipsum is simply dummy ,</div>
+        <div class="item">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</div>
+        <div class="item">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</div>
+        <div class="item">typesetting industry. Lorem Ipsum has been the industry's standard </div>
+    </div>
+
+    <h1>Flex-end</h1>
+    <div class="container flex-end">
+        <div class="item">Lorem Ipsum is simply dummy ,</div>
+        <div class="item">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</div>
+        <div class="item">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</div>
+        <div class="item">typesetting industry. Lorem Ipsum has been the industry's standard </div>
+    </div>
+
+    <h1>space-around</h1>
+    <div class="container space-around">
+        <div class="item">Lorem Ipsum is simply dummy ,</div>
+        <div class="item">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</div>
+        <div class="item">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</div>
+        <div class="item">typesetting industry. Lorem Ipsum has been the industry's standard </div>
+    </div>
+
+    <h1>space-between</h1>
+    <div class="container space-between">
+        <div class="item">Lorem Ipsum is simply dummy ,</div>
+        <div class="item">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</div>
+        <div class="item">Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</div>
+        <div class="item">typesetting industry. Lorem Ipsum has been the industry's standard </div>
+    </div>
+
+
+</body>
+</html>
